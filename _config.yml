@@ -7,7 +7,7 @@ url: https://riven521.github.io
 # Owner/author information
 owner:
   name: Rui Xu
-  avatar: rxu.jpg
+  # avatar: rxu.jpg
  # bio:
   email: rxu@hhu.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -33,16 +33,16 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Resume
-    url: /file/CV-HanlinCAI.pdf
+  #- title: Resume
+  #  url: /file/CV-HanlinCAI.pdf
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Fundings
-    url: /fundings/
-  - title: Hobbies
-    url: /hobbies/
+  #- title: Fundings
+  #  url: /fundings/
+  #- title: Hobbies
+  #  url: /hobbies/
   - title: Blogs
     url: /blogs/
 
